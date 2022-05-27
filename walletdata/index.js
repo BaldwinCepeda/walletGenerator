@@ -1,4 +1,3 @@
-const person = require('./data')
 const ethers = require('ethers')
 
 
