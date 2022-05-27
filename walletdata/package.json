@@ -1,0 +1,14 @@
+{
+  "name": "walletdata",
+  "version": "1.0.0",
+  "description": "Wallet checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baldwin n josh",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.8"
+  }
+}
